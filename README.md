@@ -13,7 +13,7 @@ Before you dive into this repository, make sure you have the following prerequis
 
 * C++ Compiler: You should have a C++ compiler installed on your system. Popular choices include GCC for Unix-like systems and MinGW for Windows. You can also use an integrated development environment (IDE) like Visual Studio, CLion, or Code::Blocks that come with built-in compilers.
 
-*Development Environment: Set up a code editor or IDE for C++ development. Choose one that suits your preferences and platform.
+* Development Environment: Set up a code editor or IDE for C++ development. Choose one that suits your preferences and platform.
 
 # Usage
 You can use this repository for various purposes:
